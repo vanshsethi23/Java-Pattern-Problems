@@ -13,7 +13,7 @@ Welcome to the Java Pattern Problems Repository! This repository is designed to 
 1. **Clone the Repository**: Clone this repository to your local machine using the following command:
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/vanshsethi23/Java-Pattern-Problems.git
 ```
 
 2. **Explore the Problems**: Browse through the directories to explore various pattern problems.
