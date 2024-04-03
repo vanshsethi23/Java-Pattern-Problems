@@ -4,7 +4,7 @@ Welcome to the Java Pattern Problems Repository! This repository is designed to 
 
 ### What's Included?
 
-- **Various Pattern Problems**: Explore a diverse set of pattern problems (STAR, NUMBER, CHARACTER/ ALPHABETICAL ranging from simple shapes to complex designs.
+- **Various Pattern Problems**: Explore a diverse set of pattern problems (STAR, NUMBER, CHARACTER/ ALPHABETICAL) ranging from simple shapes to complex designs.
 - **Clear Explanations**: Each problem is accompanied by clear explanations and comments to help you understand the solution approach.
 - **Multiple Difficulty Levels**: Problems are categorized based on difficulty levels to cater to learners of all levels, from beginners to advanced.
 
