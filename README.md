@@ -10,31 +10,31 @@ Welcome to the Java Pattern Problems Repository! This repository is designed to 
 
 ### Tips & Tricks to solve any Pattern Problem
 
-// **Solve Any Star Pattern Question With This Trick**
-        Steps:-
-        1. Run the outer for loop, the no. of times you are having the lines! (no. of lines = no. of rows = no. of times outer for loop will run)
-        2. Identify for every row no. (- How many columns are there.) and run the inner loop accordingly.
-        3. What do you need to print!
-        Note: Put the println() statement as the last statement of the outer loop to change the line!
+#### Solve Any Star Pattern Question With This Trick
+Steps:-
+1. Run the outer for loop, the number of times you are having the lines! (number of lines = number of rows = number of times outer for loop will run)
+2. Identify for every row number (- How many columns are there.) and run the inner loop accordingly.
+3. What do you need to print!
+Note: Put the `println()` statement as the last statement of the outer loop to change the line!
 
-// **Solve Any Number Pattern Question With This Trick**
-        Steps:-
-        > The shape & the numbers there inside the shape make up the number pattern problem.
-        > Identify the pattern and the numbers in it.
-        1. Run the outer for loop, the no. of times you are having the lines! (no. of lines = no. of rows = no. of times outer for loop will run)
-        2. Identify for every row no. (- How many columns are there.) and run the inner loop accordingly.
-        3. What do you need to print!
-        Note: Put the println() statement as the last statement of the outer loop to change the line!
+#### Solve Any Number Pattern Question With This Trick
+Steps:-
+- The shape & the numbers there inside the shape make up the number pattern problem.
+- Identify the pattern and the numbers in it.
+1. Run the outer for loop, the number of times you are having the lines! (number of lines = number of rows = number of times outer for loop will run)
+2. Identify for every row number (- How many columns are there.) and run the inner loop accordingly.
+3. What do you need to print!
+Note: Put the `println()` statement as the last statement of the outer loop to change the line!
 
-// **Solve Any Character Pattern Question With This Trick**
-        Steps:-
-        > The shape & the characters/ alphabets there inside the shape make up the character pattern problem.
-        > Identify the pattern and the characters in it.
-        1. Run the outer for loop, the no. of times you are having the lines! (no. of lines = no. of rows = no. of times outer for loop will run)
-        2. Identify for every row no. (- How many columns are there.) and run the inner loop accordingly.
-        3. What do you need to print!
-        Note: Put the println() statement as the last statement of the outer loop to change the line!
-        
+#### Solve Any Character Pattern Question With This Trick
+Steps:-
+- The shape & the characters/alphabets there inside the shape make up the character pattern problem.
+- Identify the pattern and the characters in it.
+1. Run the outer for loop, the number of times you are having the lines! (number of lines = number of rows = number of times outer for loop will run)
+2. Identify for every row number (- How many columns are there.) and run the inner loop accordingly.
+3. What do you need to print!
+Note: Put the `println()` statement as the last statement of the outer loop to change the line!
+
 ### How to Use?
 
 1. **Clone the Repository**: Clone this repository to your local machine using the following command:
